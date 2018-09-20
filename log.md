@@ -19,3 +19,10 @@ Oh!!! And I also fixed a typo in fcc curriculum on github. :)
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/HassanRaja/full/xaQGrw/)
 
+### Day 3: September 20. Thursday
+**Today's Progress**: Almost completed Technical documentation project
+
+**Thoughts:** In the morning, learned two css props, position and overflow. After that sidebar was fixed just in minutes. Writing documentation text on my own is not possible and copying it is also not easy. It is taking some time. But thanks Allah all the hard work is done now.
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/HassanRaja/full/xaQGrw/)
+
