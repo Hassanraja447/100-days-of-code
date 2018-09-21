@@ -26,3 +26,15 @@ Oh!!! And I also fixed a typo in fcc curriculum on github. :)
 
 **Link to work:** [Technical Documentation Page](https://codepen.io/HassanRaja/full/xaQGrw/)
 
+### Day 4: September 21. Friday
+**Today's Progress**: Started preparing for HTML5 test, Added content in technical documentation page, Learned about length units, detailed intro to CSS grids. Also learned how to stay focus and deep while working. Learned pomodoro technique (25 minutes work/ 5 minutes break) Work on only one related task a time.
+
+**Thoughts:** A long day concluded. Soon after learning technique, workflow jumped to a high. It is not easy to work that long but I managed to stay motivated. Hope this method will speed up work termendously. 
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/HassanRaja/full/xaQGrw/)
+
+**Link to work:** [HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
+**Link to work:** [A complete intro to css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+**Link to work:** [Focus and Deep Work ](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291)
