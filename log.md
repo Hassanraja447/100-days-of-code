@@ -38,3 +38,17 @@ Oh!!! And I also fixed a typo in fcc curriculum on github. :)
 **Link to work:** [A complete intro to css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 **Link to work:** [Focus and Deep Work ](https://medium.freecodecamp.org/focus-and-deep-work-your-secret-weapons-to-becoming-a-10x-developer-8e203a6ad291)
+
+
+### Day 5: September 22. Saturday
+**Today's Progress**:Completed technical documentation project(media query is not working fine). Completed layout of final project, personal portfolio. Spend most of the time trying to place at header background. In preparation to html5 test, learned how to used video and audio tags.
+
+**Thoughts:** Despite continues interuption of internet, made some progress. Internet was annoying all the time . Deep and focus work technique is working very well for me.
+In the final project I decided to deviate from example design and show my own skills. So started the project with my own colors, and placed an image in header background. Internet is not helpful at all so I decided to quit early.
+
+**Link to work:** [Technical Documentation Page](https://codepen.io/HassanRaja/full/xaQGrw/)
+
+**Link to work:** [HTML video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+
+**Link to work:** [Personal portfolio](https://codepen.io/HassanRaja/full/bxJboe/)
+
