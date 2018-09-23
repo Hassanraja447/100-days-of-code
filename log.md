@@ -52,3 +52,12 @@ In the final project I decided to deviate from example design and show my own sk
 
 **Link to work:** [Personal portfolio](https://codepen.io/HassanRaja/full/bxJboe/)
 
+### Day 6: September 23. Sunday
+**Today's Progress**Internet was not working today either, and will be availabe tommorrow also. So I take the opportunity to learn photoshop from a course I previously downloaded. Photoshop is essential to get better at front-end developement as far I know. 
+
+**Thoughts:** Will be taking the time without internet to spend on photoshop. 
+
+
+
+
+
