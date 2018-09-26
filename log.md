@@ -57,7 +57,10 @@ In the final project I decided to deviate from example design and show my own sk
 
 **Thoughts:** Will be taking the time without internet to spend on photoshop. 
 
+### Day 6: September 24. Tuesday
+**Today's Progress**:Basic HTML form elements i.e. form, label, input, button.
+Photoshop's layers panel, layers types and layers selection etc.
 
-
+**Thoughts:** HTML articles are very helpful and I am learning so much from them. Mozila developer network is great in this regrad. 
 
 
