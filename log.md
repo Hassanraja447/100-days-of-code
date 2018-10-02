@@ -64,7 +64,7 @@ Photoshop's layers panel, layers types and layers selection etc.
 **Thoughts:** HTML articles are very helpful and I am learning so much from them. Mozila developer network is great in this regrad. 
 
 
-### Day 8: September 18. Tuesday
+### Day 8: October 1. Monday
 
 **Today's Progress**: Completed personal portfolio project and with that responsive web design certificate.
 
@@ -73,3 +73,14 @@ Photoshop's layers panel, layers types and layers selection etc.
 **Link to work:** [Personal portfolio](https://codepen.io/HassanRaja/full/bxJboe/)
 
 **Link to work:** [Responsive web design certificate](https://www.freecodecamp.org/certification/rm_hassan/responsive-web-design)
+
+
+### Day 9: October 2. Tuesday
+
+**Today's Progress**: Setup two projects for my portfolio. 
+
+**Thoughts:** Started the day with learning how to setup working enviorment. Install packages from npm. Then push it to github. It was all new for me and I was doing it for the first time on my own. It took whole day to do this.
+
+**Link to work:** [first project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+**Link to work:** [Second project-nobodyfools](https://github.com/Hassanraja447/nobodyfools)
