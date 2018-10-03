@@ -84,3 +84,13 @@ Photoshop's layers panel, layers types and layers selection etc.
 **Link to work:** [first project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
 **Link to work:** [Second project-nobodyfools](https://github.com/Hassanraja447/nobodyfools)
+
+
+### Day 9: October 3. Wednesday
+
+**Today's Progress**: Made header of the portfolio project. Started JavaScript course 
+
+**Thoughts:** Portfolio's header is still not perfect but at least it has something to show. Colors of the logos didn't changed as I intended. On the other hand I started Andrew Mead's JavaScript course. I now split the day in two halfs. One for working on personal projects and second for the learning of JavaScript.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
