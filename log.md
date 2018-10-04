@@ -94,3 +94,12 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
+
+### Day 10: October 4. Thursday
+
+**Today's Progress**: Added slider to portfolio project. Learn about objects, methods in javascript 
+
+**Thoughts:** After some critical thinking added slider in portfolio. Started a new branch for the header. Then learned about how objects worked with functions and how to use methods. 
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
