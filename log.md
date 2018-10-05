@@ -103,3 +103,11 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
+### Day 10: October 5. Friday
+
+**Today's Progress**: Completed missing parts of slider in portfolio project. Learned how arrays works in JavaScript. Explored Math object. 
+
+**Thoughts:** Now I am really getting sense what it takes to build a web page. First realized that I faild to add all the icons. Then spotted that slider also have controller underneath. So fixed these parts. Andrew Mead's JavaScript bootcamp is just amazing. He taught objects before arrays, which really make sense. Everytime I got confuse with arrays and objects but this time it is clear as hell. Happy on my progress.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
