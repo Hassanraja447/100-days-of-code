@@ -103,11 +103,33 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
-### Day 10: October 5. Friday
+### Day 11: October 5. Friday
 
 **Today's Progress**: Completed missing parts of slider in portfolio project. Learned how arrays works in JavaScript. Explored Math object. 
 
 **Thoughts:** Now I am really getting sense what it takes to build a web page. First realized that I faild to add all the icons. Then spotted that slider also have controller underneath. So fixed these parts. Andrew Mead's JavaScript bootcamp is just amazing. He taught objects before arrays, which really make sense. Everytime I got confuse with arrays and objects but this time it is clear as hell. Happy on my progress.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+
+### Day 12: October 6. Saturday
+
+**Today's Progress**: Added the content and projects part. Learned different arrays method. 
+
+**Thoughts:** Slowly slowly I am getting pace with building smaller parts of web page. Andrew's course is going fine as well. Late night I read Andre Negoie's article " Learn to code in 2018, get hired, and have fun along the way" It was just amazing. It was full of resources and a path to follow to become web developer and get hired. I decided to take on a course of advance git.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+**Link to work:** [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
+**Link to work:** [Mastering git](https://www.pluralsight.com/courses/mastering-git)
+
+
+### Day 13: October 7, Sunday
+
+**Today's Progress**: Started the day with mastering git course. Then fixed some issues with portfolio project's projects section and added contact section. End the day with more methods of array.
+
+**Thoughts:** Knowing how git works under the hood and all his workflow for team collaboration is essential in modern deveoploer toolkit. That's why I decided to not wait and started mastering git course right away. Buildng portfolio project is easing now. With just only one full fledge project, I'm learning so much that I imagine where would I be after some twenty to twenty-five projects which I have planned. As usual at the end I took some lectures on JavaScript.I'm building todos app along the way. It is very much helping in understanding how javascript works for searching, adding, deleting for arrays of projects. All in all I'm enjoying my time.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+**Link to work:** [Mastering git](https://www.pluralsight.com/courses/mastering-git)
+
 
