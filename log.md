@@ -132,4 +132,13 @@ Photoshop's layers panel, layers types and layers selection etc.
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 **Link to work:** [Mastering git](https://www.pluralsight.com/courses/mastering-git)
 
+### Day 14: October 8, Monday
+
+**Today's Progress**: Complete section 2 of mastering git
+
+**Thoughts:** Did nothing much. Went to university to get final transcript and didn't get. But crucial time lost.
+
+**Link to work:** [Mastering git](https://www.pluralsight.com/courses/mastering-git)
+
+
 
