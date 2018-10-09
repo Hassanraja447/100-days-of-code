@@ -142,3 +142,13 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 
 
+### Day 15: October 9, Tuesday
+
+**Today's Progress**: Learn git reset,rebase. Add about me part of about section in portfolio project. Creat expense tracker and learn DOM manipulation in javascript course. Did some challenges on fcc javascript part.
+
+**Thoughts:** Suddenly, from last week on I started to love my learning time. Medium articles has very much impact on my thinking and how I was working before and I have improved it with time. One thing that I have learned is do not focus on outcome, focus on the process, and you will be much more efficient and less likely to be depressed by your result. This has become a key sentence in my day to day work.
+
+**Link to work:** [Mastering git](https://www.pluralsight.com/courses/mastering-git)
+
+
+
