@@ -152,3 +152,15 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 
 
+### Day 16: October 10, Wednesday
+
+**Today's Progress**: Git history, git log, git rebase etc. Add footer in cool portfolio. No JavaScript today.
+
+**Thoughts:** Not much work today, somewhat relaxed myself. 
+
+**Link to work:** [Mastering git](https://www.pluralsight.com/courses/mastering-git)
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+
+
+
