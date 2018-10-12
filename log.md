@@ -162,5 +162,22 @@ Photoshop's layers panel, layers types and layers selection etc.
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
 
+### Day 17: October 11, Tuseday
+
+**Today's Progress**: Experiment with css grid and flexbox. JavaScript in the browser. 
+
+**Thoughts:** I was trying to be good at  css grid and flexbox so that I can use them better in my own projects. So I decided to experiment with them to get a better understanding. It goes well and I discover many aspects to use them for responsive layout. Then learn JavaScript and how to use it in the browser for user interaction. Adding new elements, removing elements, and changing content of an element and all that stuff. 
+
+
+
+### Day 18: October 12, Friday
+
+**Today's Progress**: Clean portfolio project to make it more readable. Learn more ways to interact with user in the browser through JavaScript. Read some articles about flexbox at smashing magzine site. 
+
+**Thoughts:** Cool portfolio project had became undreadable and non-workable for me. It has too many redundant files and code was scattered everywhere. Plus slider at two places were making code inconsistant and hard to understand. I clean them all. Learning JavaScript is more enjoying than ever. Flexbox articles was very helpful
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+
 
 
