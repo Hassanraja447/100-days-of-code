@@ -178,6 +178,15 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
+### Day 19: October 3, Satureday
+
+**Today's Progress**: Restructure code of portfolio project to make it responsive friendly. Learn about localStorage in javaScript and how to store user input in localStorage 
+
+**Thoughts:** Today, do a lot more than past some days. Really focused on portfolio project code. It was getting worse and I was unable to continue. Now It is better.
+I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend several hours on solving different challeneges given in Andrew Mead's course. 
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
 
 
 
