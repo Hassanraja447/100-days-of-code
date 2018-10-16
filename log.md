@@ -178,12 +178,28 @@ Photoshop's layers panel, layers types and layers selection etc.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
-### Day 19: October 3, Satureday
+### Day 19: October 13, Satureday
 
 **Today's Progress**: Restructure code of portfolio project to make it responsive friendly. Learn about localStorage in javaScript and how to store user input in localStorage 
 
 **Thoughts:** Today, do a lot more than past some days. Really focused on portfolio project code. It was getting worse and I was unable to continue. Now It is better.
 I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend several hours on solving different challeneges given in Andrew Mead's course. 
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+### Day 20: October 14, Sunday
+
+**Today's Progress**: Restructure about section. Learn to interact with user in the browser with javaScript. 
+
+**Thoughts:** Spend some time thinking how I can change about section so it can response to screen size. Then learn more complex javaScript event listner and how to remove data from localStorage when user interact.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+### Day 21: October 15, Monday
+
+**Today's Progress**: After a bit of experment, decided to change layout of contact section altogether. Learn how to use checkboxes in the browser with user interacting with them 
+
+**Thoughts:** Although portfolio project is consuming much of my time, but at the same time I'm learning so much things that I think it is worth doing it. It is my first project so sometimes uncertainty engulf me. JavaScript work is going smoothly. I'm understanding every bit of challenge. Now I am forgetting to add entry to log almost every other day so have to do this on next day.
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
