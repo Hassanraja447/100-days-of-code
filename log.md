@@ -204,5 +204,14 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
 
+### Day 22: October 16, Tuesday
+
+**Today's Progress**: Tweak with portfolio project code. Read some chapters of Eloquent JavaScript. Learn Arrow functions in Andrew Mead's JavaScript course.
+
+**Thoughts:** Can't express my feeling how difficult it is for me to make webpage responsive with css grid. Constantly change properties and see the results. It still have problems with some section. JavaScript learning is going smooth. I thought it would be better if I add another learning method so I started reading Eloquent JavaScript.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
+
 
 
