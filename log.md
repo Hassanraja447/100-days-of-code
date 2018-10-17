@@ -212,6 +212,14 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
+### Day 23: October 17, Wednesday
+
+**Today's Progress** All of a sudden complete mobile version of cool portfolio project
+
+**Thoughts:** I feel ashamed of myself and wondering what goes wrong with me. I have been trying to make cool portfolio web page responsive and every time I change something It breaks. I said to myself, nothing is wrong with me I just don't have enough knowledge of what I'm doing. I opened css grid specification on mdn and they taught me how to build layouts with "mobile first" approach. I liked it very much and applied it to my own project. And BOOOOM. I must say it looks better in a mobile now. Feeling energetic once again. A big achievment for me.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
 
 
 
