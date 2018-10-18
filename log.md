@@ -220,6 +220,14 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
+### Day 24: October 18, Thursday
+
+**Today's Progress** Yahooooooo!!!! I made the web page responsive. Some JavaScript lessons.
+
+**Thoughts:**  Today is the my happiest day of prevoius 2 and halft months. After all of pain and tedious coding exercises It took just two days to make web page responsive when I chose mobile first approach. Now big projects ahead. In javaScript I learn how to use try-catch statement to handle errors. I also truthy and falsy values uses in if statements. An overview of conditional statement. End the day by doing some challenges on FCC. Many of them looks easy but some of them are just confusing and I don't understand what they want from me.
+
+**Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
+
 
 
 
