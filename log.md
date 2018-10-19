@@ -228,6 +228,13 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 
 **Link to work:** [project-portfolio](https://github.com/Hassanraja447/cool-portfolio)
 
+### Day 25: October 19, Friday
+
+**Today's Progress** Object Oriented JavaScript all the way
+
+**Thoughts:** Yesterday, I decided I should focus on JavaScript and give it top priority. I thought I will eventually become better at HTML and CSS but javaScript is essential for modren web developement. Today, how OOP works in javaScript. Andrew explained how objects are created in javaScript and that Arrays are also customized objects whereas string are converted to object if any method is applied.
+
+
 
 
 
