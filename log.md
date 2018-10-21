@@ -235,6 +235,20 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 **Thoughts:** Yesterday, I decided I should focus on JavaScript and give it top priority. I thought I will eventually become better at HTML and CSS but javaScript is essential for modren web developement. Today, how OOP works in javaScript. Andrew explained how objects are created in javaScript and that Arrays are also customized objects whereas string are converted to object if any method is applied.
 
 
+### Day 26: October 20, Satureday
+
+**Today's Progress** Class syntax and how classes are used in javaScript
+
+**Thoughts:** Again forget to add this entry at time, I learned how classes are used in javaScript and yes they are very powerful
+
+
+### Day 27: October 21, Sunday
+
+**Today's Progress** Asynchrounous programming, closures, promises
+
+**Thoughts:** Today I learned hardest part of javaScript (in my opinion). But I done almost 90% challenges on my own. My future in JavaScript looks very promising(not what I learned today).
+
+
 
 
 
