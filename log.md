@@ -256,6 +256,15 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 **Thoughts:** Covered a lot javaScript today. First learn how to use babel and how it convert javaScript to make it compatible for all browsers. Then learn how to use webpack in projects. I love what webpack do and how it manages javaScript files. By learning webpack I am able to understand how it worked in React application as when I took react course I didn't understand what is happening. I am looking forward to start Andrew's React course right away because I find him a great teacher. Just want to get FCC javaScritp data structure and algorithm certificate in between, because it is fun too.
 
 
+### Day 29: October 23, Tuesday
+
+**Today's Progress** rest operator, spread operator, destructuring and some fcc challenges 
+
+**Thoughts:** Completed JavaScript course. Was 50/50 on what to start next. A javaScript project or React. Then choose React but decide I should do it after fcc JavaScript algorithm and Data structure certificate. To get some rest and to get some experience.
+
+
+
+
 
 
 
