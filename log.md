@@ -262,6 +262,12 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 
 **Thoughts:** Completed JavaScript course. Was 50/50 on what to start next. A javaScript project or React. Then choose React but decide I should do it after fcc JavaScript algorithm and Data structure certificate. To get some rest and to get some experience.
 
+### Day 30: October 24, Wednesday
+
+**Today's Progress** FCC datastructure and basic algorithm challenges
+
+**Thoughts:** I was tired throughout the day. Taking no break at all for the past two months start affecting my work quality. My productivity has started to damage as my eyes almost souring all the time. So I decided I should take satureday and sunday off. Health is important for productivity. Nonetheless today I complete two sections of javaScript datastructure and algorithm.
+
 
 
 
