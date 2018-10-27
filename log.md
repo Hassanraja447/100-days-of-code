@@ -269,6 +269,13 @@ I'm in love with JavaScript now. Such a beautiful and powerfull language. Spend 
 **Thoughts:** I was tired throughout the day. Taking no break at all for the past two months start affecting my work quality. My productivity has started to damage as my eyes almost souring all the time. So I decided I should take satureday and sunday off. Health is important for productivity. Nonetheless today I complete two sections of javaScript datastructure and algorithm.
 
 
+### Day 31: October 27, Satureday
+
+**Today's Progress** Basic script challenges, React Introduction
+
+**Thoughts:**  I took days off, my health was deterioating because of constant work and not taking a single day off. Today I done a mix of React course and fcc challenges. Done quite a bit of both of them.
+
+
 
 
 
